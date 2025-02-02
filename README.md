@@ -28,20 +28,3 @@ A simple To-Do list application that allows users to add, check, delete, and sav
 4. Click the check button to mark a task as completed.
 5. Click the trash button to remove a task.
 6. Change the theme by clicking on the theme buttons in the app.
-
-## Demo
-
-[Link to live demo or screenshot]
-
-## Installation
-
-No installation required. Just open the `index.html` file in any web browser.
-
-## Contributing
-
-Feel free to fork this project, open issues, or submit pull requests if you would like to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
